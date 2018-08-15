@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2442,3 +2443,11 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+<h1>MedAlert</h1>
+
+<p>A medication reminder application</p>
+<p>Node.js, MongoDB and Express were used for development.</p>
+
+<h4>Live version: <a><href="http://medalert.surge.sh">medalert.surge.sh</a></h4>
+>>>>>>> f48a5cccdb1cb60e42891aebb85139bc75f40a27
