@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2451,3 +2452,6 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 
 <h4>Live version: <a><href="http://medalert.surge.sh">medalert.surge.sh</a></h4>
 >>>>>>> f48a5cccdb1cb60e42891aebb85139bc75f40a27
+=======
+
+>>>>>>> 0b328cae578ea3b514eff4030f8425ff7e14e990
